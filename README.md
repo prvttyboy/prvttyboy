@@ -34,11 +34,6 @@
 
 <br br br>
 <br br br>
-<br br br>
-<br br br>
-<br br br>
-<br br br>
-<br br br>
 
 <img
   src="https://github.com/user-attachments/assets/5d33f093-3368-49fc-a2fb-53ce853ef9f5"
@@ -47,10 +42,6 @@
   align="right"
 />
 
-<br br br>
-<br br br>
-<br br br>
-<br br br>
 <br br br>
 <br br br>
 <br br br>
