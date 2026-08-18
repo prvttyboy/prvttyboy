@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-<h3>$\color{#FFF6DA}{\text{ferr}}\color{#ECA4CF}{\text{𝑖s/}}\color{#E068CF}{\text{k𝑎z}}$</h3>
+<h3>$\color{#FFF6DA}{\text{ferr}}\color{#ECA4CF}{\text{is/}}\color{#E068CF}{\text{kaz}}$</h3>
 <p align="center">
-<h3>$\color{#FFF6DA}{\text{17, b♡yfl}}\color{#ECA4CF}{\text{ux he/they}}\color{#E068CF}{\text{/𝑖t/pup}}$</h3>
+<h3>$\color{#FFF6DA}{\text{17, boyfl}}\color{#ECA4CF}{\text{ux he/they}}\color{#E068CF}{\text{/it/pup}}$</h3>
 <br br br>
 <p align="center">
-<h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
+<h3>$\color{#FFF6DA}{\text{mentally }}\color{#ECA4CF}{\text{ill always }}\color{#E068CF}{\text{iwc}}$</h3>
 
 <br br br>
 <br br br>
@@ -42,14 +42,14 @@
 <br br br>
 
 <br br br>
-<h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
+<h3>$\color{#FFF6DA}{\text{i block fre}}\color{#ECA4CF}{\text{ely esp if }}\color{#E068CF}{\text{ur on my dni}}$</h3>
 <br br br>
 
-<h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
-<h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
+<h3>$\color{#FFF6DA}{\text{dni:}}\color{#ECA4CF}{\text{homophobes, transphobes }}\color{#E068CF}{\text{xenophobes,}}$</h3>
+<h3>$\color{#FFF6DA}{\text{racists, }}\color{#ECA4CF}{\text{sexists, }}\color{#E068CF}{\text{proship, and darkship}}$</h3>
 <br br br>
 <br br br>
-<h3>$\color{#FFF6DA}{\text{pl}}\color{#ECA4CF}{\text{ace}}\color{#E068CF}{\text{h♡lder}}$</h3>
+<h3>$\color{#FFF6DA}{\text{pl}}\color{#ECA4CF}{\text{ace}}\color{#E068CF}{\text{holder}}$</h3>
 <br br br>
 <br br br>
 <br br br>
