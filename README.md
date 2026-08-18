@@ -45,7 +45,7 @@
 <h3>$\color{#FFF6DA}{\text{i block fre}}\color{#ECA4CF}{\text{ely esp if }}\color{#E068CF}{\text{ur on my dni}}$</h3>
 <br br br>
 
-<h3>$\color{#FFF6DA}{\text{dni:}}\color{#ECA4CF}{\text{homophobes, transphobes }}\color{#E068CF}{\text{xenophobes,}}$</h3>
+<h3>$\color{#FFF6DA}{\text{dni: }}\color{#ECA4CF}{\text{homophobes, transphobes }}\color{#E068CF}{\text{xenophobes,}}$</h3>
 <h3>$\color{#FFF6DA}{\text{racists, }}\color{#ECA4CF}{\text{sexists, }}\color{#E068CF}{\text{proship, and darkship}}$</h3>
 <br br br>
 <br br br>
