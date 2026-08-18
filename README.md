@@ -1,10 +1,4 @@
 
-<br br br>
-<br br br>
-<br br br>
-<br br br>
-<br br br>
-
 <img
   src="https://github.com/user-attachments/assets/6d7405ad-a398-4ada-aa85-08f8404e0c15"
   alt="Project Screenshot"
@@ -30,7 +24,6 @@
 <p align="center">
 <br br br>
 <h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
-<h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
 
 <br br br>
 <br br br>
@@ -45,16 +38,15 @@
 
 <br br br>
 <br br br>
+<h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
 <br br br>
 
-
-<br br br>
-<br br br>
 <h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
 <h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
-
-
-
+<br br br>
+<br br br>
+links links links links links links links links links links
+<br br br>
 <br br br>
 <br br br>
 <img
