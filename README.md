@@ -58,7 +58,7 @@ text text text text text
 
 </p>
 
-
+$\color{#f5eefb}{\text{This text is light blue!}}$
 
 
 
