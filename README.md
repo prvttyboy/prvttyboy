@@ -58,7 +58,7 @@ text text text text text
 
 </p>
 
-$\color{#f5eefb}{\text{This text is light blue!}}$
+<h3>$\color{#EA68CF}{\text{meowmeowmeow}}$ <h3>$\color{#EA68CF}{\text{meowmeowmeow}}$
 
 
 
