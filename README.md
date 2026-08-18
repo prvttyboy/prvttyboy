@@ -58,7 +58,7 @@ text text text text text
 
 </p>
 
-<h3>$\color{#EA68CF}{\text{meowmeowmeow}}$ <h3>$\color{#EA68CF}{\text{meowmeowmeow}}$
+<h3>$\color{#EA68CF}{\text{memowmeow meowmeowmeow meowmeowmeow}}$</h3>
 
 
 
