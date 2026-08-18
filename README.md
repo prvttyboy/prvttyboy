@@ -22,7 +22,7 @@
 <p align="center">
 <h3>$\color{#FFF6DA}{\text{ferr}}\color{#ECA4CF}{\text{𝑖s/}}\color{#E068CF}{\text{k𝑎z}}$</h3>
 <p align="center">
-<h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
+<h3>$\color{#FFF6DA}{\text{17, b♡yfl}}\color{#ECA4CF}{\text{ux he/they}}\color{#E068CF}{\text{/𝑖t/pup}}$</h3>
 <br br br>
 <p align="center">
 <h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
