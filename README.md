@@ -37,7 +37,6 @@
 />
 
 <br br br>
-<br br br>
 <h3>$\color{#FFF6DA}{\text{memowmeow}}\color{#ECA4CF}{\text{meowmeowmeow}}\color{#E068CF}{\text{meowmeowmeow}}$</h3>
 <br br br>
 
