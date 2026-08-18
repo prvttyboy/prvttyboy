@@ -2,16 +2,45 @@
 <br br br>
 <br br br>
 
-<p align="center">
 <img
   src="https://github.com/user-attachments/assets/6d7405ad-a398-4ada-aa85-08f8404e0c15"
-  width="300"/>
+  alt="Project Screenshot"
+  width="400"
+  align="left"
+/>
 
-</p>
+text text text text text
+<br br br>
+text text text text text
+<br br br>
+text text text text text
+<br br br>
+text text text text text
+<br br br>
+text text text text text
+<br br br>
+text text text text text
+<br br br>
+text text text text text
 
 <br br br>
 <br br br>
+<br br br>
+<br br br>
+<br br br>
+<br br br>
+<br br br>
 
+
+<br br br>
+<br br br>
+<br br br>
+<br br br>
+<br br br>
+<br br br>
+<br br br>
+<br br br>
+<br br br>
 <p align="center">
 <img
   src="https://github.com/user-attachments/assets/5d33f093-3368-49fc-a2fb-53ce853ef9f5"
