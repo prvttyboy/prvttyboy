@@ -12,8 +12,8 @@
 <h3>$\color{#ffbacc}{\text{lเfe เ꯱ a ᥴruꫀl jꪮkꫀ}}\color{#000000}{\text{ ૮꒰ ˶• ༝ •˶꒱ა ♡}}$</h3>
 <h3>$\color{#ffbacc}{\text{meowmeowmeow}}\color{#ffbacc}{\text{meowmeow}}$</h3>
 
-
-<img width="140" alt="image" src="https://github.com/user-attachments/assets/9cf27256-fff6-49dd-80e7-0240fc839396" /> <img width="101" height="58" alt="tumblr_3a139f779ec689ec6436f114a922fb7a_d761d103_250" src="https://github.com/user-attachments/assets/da902365-b305-42f3-8b18-436e7fbbb841" /> <img width="140" alt="image" src="https://github.com/user-attachments/assets/dd525698-6e7d-4047-97e6-294715c34bcc" />
+<br br br>
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/9cf27256-fff6-49dd-80e7-0240fc839396" /> <img width="130" alt="image" src="https://github.com/user-attachments/assets/9e57f8d6-8dd6-4a08-8772-caecea03b7ce" /> <img width="130" alt="image" src="https://github.com/user-attachments/assets/dd525698-6e7d-4047-97e6-294715c34bcc" />
 
 <img width="150" align="right" alt="image" src="https://github.com/user-attachments/assets/1a56cbb9-7508-4ee0-acbd-5758035e75c5" />
 
