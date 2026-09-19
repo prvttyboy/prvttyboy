@@ -7,9 +7,9 @@
 />
 
 <h3>$\color{#27D9C4}{\text{เ ᨰꪮuld kเ꯱꯱ yꪮu}}\color{#000000}{\text{}}$</h3>
-<h3>$\color{#2165BD}{\text{ꫀvꫀn เf yꪮu were dꫀᥲd}}\color{#000000}{\text{ ૮꒰ ˶• ༝ •˶꒱ა ♡}}$</h3>
+<h3>$\color{#2165BD}{\text{ꫀvꫀn เf yꪮu were dꫀᥲd}}\color{#2165BD}{\text{ Ი⑅𐑼}}$</h3>
 <br br br>
-socials wip
+<h3>$\color{#1A5939}{\text{socials in progress}}\color{#000000}{\text{}}$</h3>
 
 <br br br>
 <img width="141" alt="image" src="https://github.com/user-attachments/assets/9cf27256-fff6-49dd-80e7-0240fc839396" /> <img width="130" alt="image" src="https://github.com/user-attachments/assets/9e57f8d6-8dd6-4a08-8772-caecea03b7ce" /> <img width="130" alt="image" src="https://github.com/user-attachments/assets/dd525698-6e7d-4047-97e6-294715c34bcc" />
