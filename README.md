@@ -13,6 +13,7 @@
 <h3>$\color{#ffbacc}{\text{meowmeowmeow}}\color{#ffbacc}{\text{meowmeow}}$</h3>
 
 
-<img width="99" height="56" alt="tumblr_9b4459791f82fd42c5bc53c6e1f7f83e_2d053d7c_100" src="https://github.com/user-attachments/assets/5fd54fd4-fa39-4424-b846-1cb081b062e8" />  <img width="101" height="58" alt="tumblr_3a139f779ec689ec6436f114a922fb7a_d761d103_250" src="https://github.com/user-attachments/assets/da902365-b305-42f3-8b18-436e7fbbb841" /> <img width="98" height="56" alt="tumblr_cbea8886fe733edfb07b93d49b032694_993b4ee1_100" src="https://github.com/user-attachments/assets/a874565b-8882-4d60-b264-917aa6e3d34c" />
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/9cf27256-fff6-49dd-80e7-0240fc839396" /> <img width="101" height="58" alt="tumblr_3a139f779ec689ec6436f114a922fb7a_d761d103_250" src="https://github.com/user-attachments/assets/da902365-b305-42f3-8b18-436e7fbbb841" /> <img width="140" alt="image" src="https://github.com/user-attachments/assets/dd525698-6e7d-4047-97e6-294715c34bcc" />
 
 <img width="150" align="right" alt="image" src="https://github.com/user-attachments/assets/1a56cbb9-7508-4ee0-acbd-5758035e75c5" />
+
