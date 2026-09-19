@@ -14,4 +14,6 @@
 <h3>$\color{#1A5939}{\text{socials in progress}}\color{#000000}{\text{}}$</h3>
 
 <br br br>
-<img width="130" alt="image" src="https://github.com/user-attachments/assets/9e57f8d6-8dd6-4a08-8772-caecea03b7ce" /> <img width="141" alt="image" src="https://github.com/user-attachments/assets/9cf27256-fff6-49dd-80e7-0240fc839396" /> <img width="130" alt="image" src="https://github.com/user-attachments/assets/dd525698-6e7d-4047-97e6-294715c34bcc" />
+<img width="130" alt="image" src="https://github.com/user-attachments/assets/9e57f8d6-8dd6-4a08-8772-caecea03b7ce" /> <img width="130" alt="image" src="https://github.com/user-attachments/assets/19807bf5-b535-40d2-bcad-85e56e9da44b" /> <img width="130" alt="image" src="https://github.com/user-attachments/assets/dd525698-6e7d-4047-97e6-294715c34bcc" />
+
+
